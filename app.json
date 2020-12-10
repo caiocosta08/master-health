@@ -1,0 +1,12 @@
+{
+  "name": "master-health",
+  "displayName": "master-health",
+  "expo": {
+    "name": "master-health",
+    "slug": "master-health",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
